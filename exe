@@ -1,0 +1,3 @@
+def exe(x):
+    x = eval(x)
+    return x
